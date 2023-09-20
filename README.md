@@ -19,7 +19,7 @@
 - A passionate Self-taught Full-stack web developer
 - Playing Chess at spare time
 - Currently learning React Native
-- Personal website [link](https://nattydev.vercel.app)
+- Personal website [natnael.dev](https://nattydev.vercel.app)
 - I’m currently open for a new job opportunity, this is [my resume](https://drive.google.com/file/d/1xMPXozYxfrhnF7Uu0p9w95RzeyCD9S3b/view?usp=sharing)
 
 <br><br>
